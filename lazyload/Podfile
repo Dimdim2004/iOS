@@ -1,0 +1,7 @@
+platform:ios,'17.5'
+
+target 'lazyload' do
+ 
+ pod 'Masonry'
+
+end
